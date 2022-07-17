@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/gameslist/static/css/main.87ea6ca7.css",
+    "main.js": "/gameslist/static/js/main.a796f525.js",
+    "static/js/787.083040b2.chunk.js": "/gameslist/static/js/787.083040b2.chunk.js",
+    "static/media/black.jpg": "/gameslist/static/media/black.668b89fa216da98802d1.jpg",
+    "static/media/SEGA.woff": "/gameslist/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/gameslist/index.html",
+    "main.87ea6ca7.css.map": "/gameslist/static/css/main.87ea6ca7.css.map",
+    "main.a796f525.js.map": "/gameslist/static/js/main.a796f525.js.map",
+    "787.083040b2.chunk.js.map": "/gameslist/static/js/787.083040b2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87ea6ca7.css",
+    "static/js/main.a796f525.js"
+  ]
+}
