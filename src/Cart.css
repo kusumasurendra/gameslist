@@ -1,0 +1,12 @@
+.card{
+    background-color: transparent;
+    padding:10px;
+    border-radius: 5px;
+    transition: 1.2s;
+}
+.card:hover{
+    background-color: white;
+}
+.text-color{
+    color:green
+}
