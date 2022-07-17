@@ -7,13 +7,14 @@ import './App.css';
 function App(){
 
   const[searchinput,setsearch]=React.useState("");
- 
   function handle(e){
     setsearch(e.target.value);
   }
   const filtered=robots.filter(robot=>{
     return robot.title.toLowerCase().includes(searchinput.toLowerCase());
   })
+  
+ 
   return(
     <div>
       <div className='heading'>
